@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DexIlaganDev/psdtohtml/issues"
   },
-  "homepage": "https://github.com/DexIlaganDev/psdtohtml#readme"
+  "homepage": "https://github.com/DexIlaganDev/psdtohtml#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
 }
