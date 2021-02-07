@@ -3,3 +3,12 @@ $border-radius :8rem;
 
 //Bootstrap Sass Files
 @import "node_modules/bootstrap/scss/bootstrap";
+
+//myfiles
+
+#background {
+  background-image: url('../assets/background.jpg');
+  background-repeat: no-repeat;
+  height: 500px;
+  background-size: contain;
+}
