@@ -1,0 +1,19 @@
+{
+  "name": "psdtohtml",
+  "version": "1.0.0",
+  "description": "simple psd to html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DexIlaganDev/psdtohtml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DexIlaganDev/psdtohtml/issues"
+  },
+  "homepage": "https://github.com/DexIlaganDev/psdtohtml#readme"
+}
